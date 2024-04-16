@@ -1,0 +1,348 @@
+.mac-book-pro-1 {
+  background: #FFFCF4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.rectangle-10 {
+  border-radius: 2px;
+  background: var(--the-brown,#ffcd9e);
+  position: absolute;
+  left: 235px;
+  top: 172px;
+  width: 219px;
+  height: 13px;
+}
+
+.an-inspiring-design-delivered-to-your-inbox-every-morning {
+  position: relative;
+  margin: 0 19.1px 20.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #282828;
+}
+.group-3 {
+  border-radius: 8px;
+  background: #282828;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px 0;
+  width: 216px;
+  box-sizing: border-box;
+
+}
+
+.register-now {
+  border-radius: 8px;
+  overflow-wrap: break-word;
+  font-family: "Inter" ;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24.2px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.our-team-scouts-the-internet-for-the-best-designs-illustrations-and-art-and-delivers-a-truly-inspiring-one-every-day-to-your-inbox {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #484848;
+}
+.show-me-how-it-looks {
+  margin-bottom: 39.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 800;
+  font-size: 20px;
+  line-height:1.6;
+  color: #282828;
+}
+.free-no-spam-no-data-sharing {
+  margin: 0 40.4px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 16px;
+  line-height:1.6;
+  color: #ffffff;
+}
+.your-e-mail-address {
+  width: 350px;
+  height: 64px;
+  top: 411px;
+  left: 158px;
+
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 20px;
+  color: #888888;
+}
+.Dweep-io-1 {
+  position: relative;
+  margin-top: 3.4px;
+  display: flex;
+  flex-direction: column;
+  padding:11.4px 0 278.9px 0;
+  align-items: center;
+  width: 393.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.vector {
+  position: relative;
+  margin-right: 5.7px;
+  width: 26.1px;
+  height: 7.3px;
+}
+.vector-1 {
+  width: 25.4px;
+  height: 7px;
+}
+.vector-2 {
+  width: 25.4px;
+  height: 7px;
+}
+.vector-3 {
+  margin: 1.5px 14.9px 23.8px 0;
+  width: 7.8px;
+  height: 12.4px;
+}
+.vector-4 {
+  margin: 1.5px 0 23.8px 0;
+  width: 7.8px;
+  height: 12.4px;
+}
+.vector-5 {
+  margin-right: 19.1px;
+  width: 8.5px;
+  height: 37.7px;
+}
+.group {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 393.5px;
+  height: 442.4px;
+  box-sizing: border-box;
+}
+.vector-7 {
+  margin: 0 0 81.3px 79.6px;
+  width: 0.1px;
+  height: 0.1px;
+}
+
+
+
+
+.prompt-generator {
+
+  margin-right: 16px;
+  width: 946.4px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.dweep-io {
+
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.made-with-love-in-india {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hellodweep-io {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.dweep-daily {
+  margin-right: 16px;
+  width: 823.5px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.all-contributors {
+  margin-right: 16px;
+  width: 972px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.your-data-on-dweep-io {
+  margin: 0 875.6px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.contribute-to-dweep {
+  margin-right: 16px;
+  width: 890.4px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.instagram-logo {
+  width: 29.41px;
+  height: 27.42px;
+  top: 728.58px;
+  left: 1217.59px;
+  border:3px ;
+
+
+}
+.linkedin-logo {
+  width: 29.41px;
+  height: 27.42px;
+  top: 728.58px;
+  left: 1179px;
+  border: 3px;
+
+}
+.container {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1056px;
+  box-sizing: border-box;
+}
+.container-23 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1056px;
+  box-sizing: border-box;
+}
+.container-24 {
+  margin: 0 197.9px 6.3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.container-27 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1056px;
+  box-sizing: border-box;
+}
+.container-28 {
+  margin-bottom: 21.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-30 {
+  background: #282828;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:62px 0 60px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.container-31 {
+  width: 393.5px;
+  height: 442.4px;
+}
+.container-33 {
+  margin: 0 3.5px 12.2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 58.1px;
+  box-sizing: border-box;
+}
+.container-34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1056px;
+  box-sizing: border-box;
+}
+.container-36 {
+  background: #ffcd9e;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 30px 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-37 {
+  margin: 0 4px 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 75.7px;
+  box-sizing: border-box;
+}
+.container-38 {
+  margin: 2.6px 0 2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 68px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.container-40 {
+  border-radius: 8px;
+  border: 4px solid #000000;
+  background: #ffffff;
+  position: relative;
+  margin-right: 16px;
+  padding: 16px 22px;
+  width: 344px;
+  box-sizing: border-box;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
